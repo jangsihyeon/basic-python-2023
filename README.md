@@ -69,13 +69,29 @@ print(f'파이는 {pi:10.3f}입니다.') # 파이는         3.142입니다.
 ![실행화면](https://github.com/jangsihyeon/studyPython2023/blob/main/images/address_app.png?raw=true)    
 실행화면
 
-## 7일차
+# 7일차
 1. 파이썬 응용
     - 주피터 노트북 사용법
-        - 노트북 생성
+        - 노트북 생성 : 파일 메뉴 > 새 파일 
     - 리스트 연산 추가
     - 자료구조 추가
     - 라이브러리 사용법
-    - 윈폼 개발(GUI
-    - 응용 학습
+        - folium (지도 라이브러리)
+
+# 8일차 
+1. 파이썬 응용
+    - 라이브러리 사용법
+        - urllib.request
+    - 웹 크롤링
+        - 기상청 오늘의 날씨 크롤링
+        - 데이터 포털 OpenAPI 크롤링
+        - BeautifulSoup 크롤링
+    - 자료구조 추가 
+    - 윈폼 개발(GUI)
+    - 응용 학습 
+
+# 9일차 
+1. 파이썬 응용
+    - GUI개발(PyQt)
+    - 자료 구조 추가 
 
