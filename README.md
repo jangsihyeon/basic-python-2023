@@ -89,7 +89,9 @@ print(f'파이는 {pi:10.3f}입니다.') # 파이는         3.142입니다.
     - 자료구조 추가 
     - 윈폼 개발(GUI)
     - 응용 학습 
+    
 ![실행화면](https://raw.githubusercontent.com/jangsihyeon/studyPython2023/0a63156e579f578a94a3425dacf1aa074af50807/images/jupyter_folium.png) 
+
 Folium OpenAPI 
 
 # 9일차 
