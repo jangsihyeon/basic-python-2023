@@ -108,7 +108,7 @@ Folium OpenAPI
         - PyQt 위젯 계속
         - PyQt 다이얼로그 
 
-![실행화면]()
+![실행화면](https://raw.githubusercontent.com/jangsihyeon/studyPython2023/ec58874302352288d3fe49876b39ab4c8561218e/images/dialog.png)
 
 PyQt 실행화면 
 
