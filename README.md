@@ -69,7 +69,7 @@ print(f'파이는 {pi:10.3f}입니다.') # 파이는         3.142입니다.
 ![실행화면](https://github.com/jangsihyeon/studyPython2023/blob/main/images/address_app.png?raw=true)    
 실행화면
 
-# 7일차
+## 7일차
 1. 파이썬 응용
     - 주피터 노트북 사용법
         - 노트북 생성 : 파일 메뉴 > 새 파일 
@@ -78,7 +78,7 @@ print(f'파이는 {pi:10.3f}입니다.') # 파이는         3.142입니다.
     - 라이브러리 사용법
         - folium (지도 라이브러리)
 
-# 8일차 
+## 8일차 
 1. 파이썬 응용
     - 라이브러리 사용법
         - urllib.request
@@ -94,9 +94,21 @@ print(f'파이는 {pi:10.3f}입니다.') # 파이는         3.142입니다.
 
 Folium OpenAPI 
 
-# 9일차 
+## 9일차 
 1. 파이썬 응용
     - GUI개발
         - Tkinter 소개 
-        - PyQt
+        - PyQt 소개, 설치
+        - PyQt 기본 사용법
+        - 위젯
+
+## 10일차 
+1. 파이썬 응용
+    - GUI 개발 
+        - PyQt 위젯 계속
+        - PyQt 다이얼로그 
+
+![실행화면]()
+
+PyQt 실행화면 
 
